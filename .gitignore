@@ -1,0 +1,12 @@
+# .gitignore
+# Node
+node_modules/
+dist/
+.env
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.env
+*.sqlite3
